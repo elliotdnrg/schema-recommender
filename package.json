@@ -1,0 +1,18 @@
+{
+  "name": "schema-recommender",
+  "version": "1.0.0",
+  "description": "DNRG Schema.org markup recommendation tool with Netlify serverless backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "schema",
+    "seo",
+    "structured-data",
+    "dnrg"
+  ],
+  "author": "DNRG",
+  "license": "UNLICENSED",
+  "dependencies": {}
+}
